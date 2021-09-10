@@ -1,1 +1,1 @@
-# Projects_Automated_Boring_Stuff_with_Python
+# Mini_Projects_Python
